@@ -1,4 +1,4 @@
-Created using **https://mui.com/core/ **
+Created using **https://mui.com/core/**
 
 To install app run **npm install --force**
 To run app **npm start**
