@@ -177,6 +177,7 @@ const BanksGrid = (props) => {
             },
           },
         }}
+        experimentalFeatures={{ newEditingApi: true }}
       />
     </div>
   );
