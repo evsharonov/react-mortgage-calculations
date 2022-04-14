@@ -5,7 +5,7 @@ To run app **npm start**
 
 Demo app deployed by link **https://react-loan-calculations.oa.r.appspot.com**
 
-App using dummy set of data, storing in LocalStorage
+App using dummy set of data, stored in LocalStorage.
 
 To perform calculations - check rows on page Banks.
 Checked rows will be added to the list of allowed Bank terms on page Calculations.
